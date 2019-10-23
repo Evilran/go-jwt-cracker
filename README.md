@@ -1,6 +1,6 @@
 # **go-jwt-cracker**
 
-[![Golang](https://img.shields.io/static/v1?label=code&message=Golang&color=blue)](https://www.python.org/) ![License](https://img.shields.io/github/license/Evilran/go-jwt-cracker?style=plastic)
+[![Golang](https://img.shields.io/static/v1?label=code&message=Golang&color=blue)] ![License](https://img.shields.io/github/license/Evilran/go-jwt-cracker?style=plastic)
 
         _  _      _____      ____ ____  ____  ____ _  __ _____ ____
        / |/ \  /|/__ __\    /   _Y  __\/  _ \/   _Y |/ //  __//  __\
